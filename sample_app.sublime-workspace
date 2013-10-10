@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_content"
+			],
+			[
+				"st",
+				"static_pages"
+			],
+			[
+				"hav",
+				"have_content"
+			],
+			[
+				"eac",
+				"eac-	each_cons(..) { |group| .. }"
+			],
+			[
+				"isb",
+				"isbn_pub_lang"
+			],
+			[
+				"spa",
+				"spanish3"
+			],
+			[
+				"co",
+				"countries"
+			],
+			[
+				"publi",
+				"publishers"
+			],
+			[
+				"front_back",
+				"front_back_aux"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ingred",
+				"ingredient"
+			],
+			[
+				"numAc",
+				"numAct"
+			],
+			[
+				"numA",
+				"numActors"
+			],
+			[
+				"abg_rp_pinD",
+				"abg_rp_pinDirector"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"sani",
+				"sanitize_text_field"
+			],
+			[
+				"num",
+				"numDirectors"
+			],
+			[
+				"movie",
+				"movieForm"
+			],
+			[
+				"br",
+				"brand"
+			],
+			[
+				"cur",
+				"currency"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"sit",
+				"siteName"
+			],
+			[
+				"post",
+				"post_type"
+			],
+			[
+				"opt",
+				"opt_val"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/static_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/static_pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/static_pages/contact.html.erb",
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/static_pages/help.html.erb",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/static_pages/about.html.erb",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/static_pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sample_app.sublime-project",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Ruby-Syntax.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"synt task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"gist",
+				"Gist: Update File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jquuer",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"synt bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jscr",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"synt:markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synta:javascr",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/Gemfile",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/README.rdoc",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/.gitignore",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/Gemfile.lock",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/sample-app.sublime-project",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/demo_app.sublime-project",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Ruby-Syntax.sublime-build",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/app/controllers/cosa.rb",
+		"/Users/tonimaiser/Desktop/test.js",
+		"/Users/tonimaiser/Desktop/index.html",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/tonimaiser/Desktop/aaa.blade.php",
+		"/Users/tonimaiser/Desktop/module.coffee",
+		"/Users/tonimaiser/.bash_profile",
+		"/Users/tonimaiser/Desktop/style.css",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/Gemfile",
+		"/Users/tonimaiser/Google Drive/Filibooks/06 Informes de Reunión/Reunión 24:09:2013",
+		"/Users/tonimaiser/Google Drive/Filibooks/06 Informes de Reunión/Reunión inicial. 10:09:2013",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/config/routes.rb",
+		"/Users/tonimaiser/Desktop/rails_projects/demo_app/.gitignore",
+		"/Users/tonimaiser/Desktop/rails_projects/first_app/Gemfile",
+		"/Users/tonimaiser/Desktop/rails_projects/first_app/README.md",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/tonimaiser/Desktop/rails_projects/first_app/.gitignore",
+		"/MegaAnfitrion.rb",
+		"/Users/tonimaiser/Desktop/JSON Parser/edition.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/author_parser.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/works_search.json",
+		"/Users/tonimaiser/Desktop/JSON Parser/works_data.json",
+		"/Users/tonimaiser/Desktop/JSON Parser/iflist.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/loops.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/search_work.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/works_cover_filter.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/work_parser.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/works1.json",
+		"/Users/tonimaiser/Desktop/JSON Parser/author.py",
+		"/Users/tonimaiser/Desktop/JSON Parser/example.json",
+		"/Users/tonimaiser/Downloads/ol_dump_authors_2013-08-31.txt",
+		"/Users/tonimaiser/Documents/abg-rich-pins/trunk/abg-rich-pins.php",
+		"/Users/tonimaiser/Desktop/sorteo.py",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/babynames.py",
+		"/Users/tonimaiser/Desktop/Recommendations/10ratings.dat",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/small.txt",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/wordcount.py",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/list1.py",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/string2.py",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/string1.py",
+		"/Users/tonimaiser/Desktop/Python/ejercicios/repeat.py",
+		"/Users/tonimaiser/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/js/abg-rich-pins.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/jm-twitter-cards/jm-twitter-cards.php",
+		"/Users/tonimaiser/Desktop/test.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/License.txt",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/abg-rich-pins.php",
+		"/Users/tonimaiser/Desktop/test3.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/css/abg-rp-style.css",
+		"/Users/tonimaiser/Desktop/test2.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/css/abg-rich-pins.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/jm-twitter-cards/admin/jm-tc-admin-style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-it.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/abg-rich-pins/abg-richpins.php.backup",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/meta-box/meta-box.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/add-meta-tags/add-meta-tags.php",
+		"/Users/tonimaiser/Desktop/prueba.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/prueba/prueba.php",
+		"/Users/tonimaiser/Desktop/vcard.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+alt+1",
+			"StaticPages",
+			"    { \"keys\": [\"alt+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n",
+			"move_to",
+			"move_to_group",
+			"move_to_grouo",
+			"super+alt+2",
+			"super+j",
+			"james",
+			"super+b",
+			"gem",
+			"the",
+			"The",
+			"the",
+			"name",
+			"the name\n",
+			"gem",
+			"group",
+			"gem",
+			"extension=",
+			"isbn_pub_lang\": \"pt",
+			"isbn_pub_lang\": \"es",
+			"97810",
+			"isbn_pub_lang\": \"fr\"",
+			"isbn_pub_lang\": \"de\"",
+			"isbn_pub_lang\": \"es\"",
+			" i ",
+			"isbn_13",
+			"isbn_pub_lang",
+			"country",
+			"Guatem",
+			"isbn",
+			"descript",
+			"description",
+			"[key]",
+			"languages/",
+			"languages/rus",
+			"languages",
+			"languag^[o] ",
+			"languages/^[e]",
+			"languages/^[esp]",
+			"languages/^[eng]",
+			"title",
+			"description",
+			"cover",
+			"publish",
+			"isbn",
+			"author",
+			"isbn",
+			"work",
+			"identifier",
+			"{[\\w\\W]+}",
+			"\"Oranges\"",
+			"{",
+			"'",
+			"title",
+			"L16079721W",
+			"isin",
+			"title",
+			"Wiley",
+			"descrip",
+			"The correspondence of",
+			"the corresp",
+			"descript",
+			"subj",
+			"description",
+			"silmaril",
+			"silmarill",
+			"rings",
+			"anillo",
+			"subjects",
+			"subject",
+			"description",
+			"spring time",
+			"authors",
+			"author_role",
+			"autores",
+			"author",
+			"^/[\\w]+/[\\w]+[\\s]/authors/OL[\\d]+\\w\\s\\d\\s\\d+-\\d+-\\d+T\\d+:\\d+:\\d+.\\d+\\s",
+			"^/[\\w]+/[\\w]+[\\s]/authors/OL[\\d]+\\w\\s\\d\\s\\d",
+			"3.3",
+			"\" \"",
+			"1193",
+			"user",
+			"sqrt",
+			"sum(",
+			"pow",
+			"^5::",
+			"^4::",
+			"^3::",
+			"^2::",
+			"^1::",
+			"echo",
+			"abg_rp_pinDescription",
+			"abg_rp_pinName",
+			"case",
+			"recipeForm",
+			"movieForm",
+			"is_",
+			"scree",
+			"tg",
+			"tr",
+			"td",
+			"Screen",
+			"screenshots",
+			"frequ",
+			"faq",
+			"preorder",
+			"Director",
+			"director",
+			"TimeMax",
+			"Rating",
+			"direct",
+			"25",
+			"size=\".*\"",
+			"size=\"??\"",
+			"Director",
+			"director",
+			"\">",
+			"CHF",
+			"AUD",
+			"CAD",
+			"EUR",
+			"OUNC",
+			"<option",
+			"VALUE",
+			"OPTION",
+			"Acte"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lang",
+			"[\"key\"]",
+			"\"",
+			"obras",
+			"work",
+			"",
+			"3.2",
+			"\"<\"",
+			"",
+			"math.sqrt",
+			"math.sum(",
+			"math.pow",
+			"user5::",
+			"user4::",
+			"user3::",
+			"user2::",
+			"user1::",
+			"pinForm",
+			"tr",
+			"td",
+			"tg",
+			"PreOrder",
+			"Ingredient",
+			"ingredient",
+			"Yield",
+			"Time",
+			"30",
+			"size=\"30\"",
+			"Ingredient",
+			"ingredient",
+			"\" '.selected( $pinCurrency, \"\",false).'>",
+			"'.selected( $pinCurrency, \"\",false).'>",
+			"<option value=\"\"",
+			"value",
+			"option",
+			"A",
+			"Act",
+			"\"",
+			"pinType",
+			"abg_rp_pinType",
+			"$pinSiteName",
+			"$pinBrand",
+			"$pinAvailability",
+			"$pinCurrency",
+			"$pinAmount",
+			"$pinSiteName",
+			"$pinUrl",
+			"$pinDescription",
+			"$pinTitle",
+			"$pinType",
+			"pin",
+			"abg_rp",
+			"abg_rp_inner_box",
+			"abg_rp_save_postdata",
+			"abg_rp_add_box",
+			"richPin",
+			"pin",
+			"rich pin",
+			"rich_pin",
+			"pinTitle",
+			"ABG",
+			"Antonio Borrero Granell",
+			"product",
+			"abg-",
+			"abg-style-rp",
+			"abgrp",
+			"Rich Pin",
+			"pin",
+			"abg_rp",
+			"abg-rp",
+			"add_rich_pin",
+			"abg-rp",
+			"richPinType",
+			"Rich Pins",
+			"abg_rp",
+			"richPinCustom",
+			"abg_rp_",
+			"pinType",
+			"pinTitle",
+			"abg_rp_",
+			"pinBrand",
+			"pinAvailability",
+			"pinCurrency",
+			"pinAmount",
+			"pinSiteName",
+			"pinUrl",
+			"pinDescription",
+			"pinTitle",
+			"richPinType",
+			"pinBrand",
+			"pinAvailability",
+			"pinCurrency",
+			"pinAmount",
+			"pinSiteName",
+			"pinUrl",
+			"pinDescription",
+			"pinTitle",
+			"'abg-rp'",
+			"richPinType",
+			"_rich_pin_",
+			"abg_rp_pinterest",
+			"ABG ",
+			"Rich Pins",
+			"Pinterest ",
+			"PintProfile",
+			"abg_rp_",
+			"productName",
+			"productSiteName",
+			"productUrl",
+			"productType",
+			"productDescription",
+			"productTitle",
+			"abg-rp",
+			"richPinType"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 469.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/requests/static_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/static_pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/static_pages/contact.html.erb",
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "app/views/static_pages/help.html.erb",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/static_pages/about.html.erb",
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/static_pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sample_app.sublime-project",
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"applicaion.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"spec_he",
+				"spec/spec_helper.rb"
+			],
+			[
+				"static_pa",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"staticpag",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"read",
+				"README.rdoc"
+			],
+			[
+				"secre",
+				"config/initializers/secret_token.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"style",
+				"/Users/tonimaiser/Desktop/style.css"
+			],
+			[
+				"users_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"micropo",
+				"app/models/micropost.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"ab",
+				"abg-rich-pins.php"
+			],
+			[
+				"hello",
+				"hello.py"
+			],
+			[
+				"",
+				"abg-rich-pins.php"
+			],
+			[
+				"jm-ti",
+				"wp-content/plugins/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-it.js"
+			],
+			[
+				"abg-r",
+				"wp-content/plugins/abg-rich-pins/css/abg-rich-pins.css"
+			],
+			[
+				"jm-twi",
+				"wp-content/plugins/jm-twitter-cards/admin/jm-tc-admin-style.css"
+			],
+			[
+				"abg-rich",
+				"wp-content/plugins/abg-rich-pins/js/abg-rich-pins.js"
+			],
+			[
+				"jm-t",
+				"wp-content/plugins/jm-twitter-cards/jm-twitter-cards.php"
+			],
+			[
+				"abg",
+				"wp-content/plugins/abg-rich-pins/abg-richpins.php.backup"
+			],
+			[
+				"jm-",
+				"wp-content/plugins/jm-twitter-cards/jm-twitter-cards.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/tonimaiser/Desktop/rails_projects/demo_app/sample-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
