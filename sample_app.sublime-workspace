@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"sh",
+				"should"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user_",
+				"user_for_invalid_password"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"password_",
+				"password_confirmation"
+			],
+			[
 				"do",
 				"dob	Insert do |variable| … end"
 			],
@@ -127,18 +151,15 @@
 			"file": "app/models/user.rb",
 			"settings":
 			{
-				"buffer_size": 227,
+				"buffer_size": 419,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "require 'spec_helper'\n\ndescribe User do\n\n  before { @user = User.new(name: \"Example User\", email: \"user@example.com\") }\n\n  subject { @user }\n\n  it { should respond_to(:name) }\n  it { should respond_to(:email) }\n\n  it { should be_valid }\n\n  describe \"when name is not present\" do\n    before { @user.name = \" \" }\n    it { should_not be_valid }\n  end\n  \n  describe \"when name is ntoo long\" do\n    before { @user.name = \"a\" * 51 }\n    it { should_not be_valid }\n  end\n\n  describe \"when email is not present\" do\n    before { @user.email = \" \" }\n    it { should_not be_valid }\n  end\n\n  describe \"when email format is invalid\" do\n    it \"should be invalid\" do\n      addresses = %w[user@foo,com user_at_foo.org example.user@foo.\n                     foo@bar_baz.com foo@bar+baz.com]\n      addresses.each do |invalid_address|\n        @user.email = invalid_address\n        expect(@user).not_to be_valid\n      end\n    end\n  end\n\n  describe \"when email format is valid\" do\n    it \"should be valid\" do\n      addresses = %w[user@foo.COM a_US-ER@f.b.org frst.lst@foo.jp a+b@baz.cn]\n      addresses.each do |valid_address|\n        @user.email = valid_address\n        expect(@user).to be_valid\n       end      \n    end\n  end\nend",
 			"file": "spec/models/user_spec.rb",
-			"file_size": 1212,
-			"file_write_time": 1381508297000000,
 			"settings":
 			{
-				"buffer_size": 1211,
+				"buffer_size": 3050,
 				"line_ending": "Unix"
 			}
 		},
@@ -159,10 +180,10 @@
 			}
 		},
 		{
-			"contents": "Extra features: \n ☐ Aprendizaje de dificultad\n ☐ Clasificación: color, tamaño, etc\n ☐ ",
+			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 86,
+				"buffer_size": 739,
 				"line_ending": "Unix"
 			}
 		}
@@ -335,6 +356,9 @@
 	},
 	"file_history":
 	[
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/.git/MERGE_MSG",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/db/migrate/20131014144030_add_index_to_users_email.rb",
+		"/Users/tonimaiser/Desktop/rails_projects/sample_app/db/migrate/20131014145541_add_password_digest_to_users.rb",
 		"/Users/tonimaiser/Dropbox/antonto/Asesino2012",
 		"/Users/tonimaiser/Desktop/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
 		"/Users/tonimaiser/Desktop/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
@@ -721,7 +745,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -755,22 +779,22 @@
 					"file": "app/models/user.rb",
 					"settings":
 					{
-						"buffer_size": 227,
+						"buffer_size": 419,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								114
+								129,
+								129
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
-						"translation.x": 9.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -781,15 +805,15 @@
 					"file": "spec/models/user_spec.rb",
 					"settings":
 					{
-						"buffer_size": 1211,
+						"buffer_size": 3050,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								648,
-								648
+								827,
+								827
 							]
 						],
 						"settings":
@@ -799,7 +823,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 241.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -860,22 +884,25 @@
 				},
 				{
 					"buffer": 5,
+					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 86,
+						"buffer_size": 739,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								86,
-								86
+								178,
+								178
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -883,11 +910,6 @@
 					},
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -908,18 +930,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.66,
 			1.0
 		],
 		"rows":
@@ -943,6 +958,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"digest",
+				"db/migrate/20131014145541_add_password_digest_to_users.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"add_i",
+				"db/migrate/20131014144030_add_index_to_users_email.rb"
+			],
 			[
 				"stati",
 				"spec/requests/static_pages_spec.rb"
@@ -1076,10 +1103,6 @@
 				"config/database.yml"
 			],
 			[
-				"gem",
-				"Gemfile"
-			],
-			[
 				".git",
 				".gitignore"
 			],
@@ -1185,7 +1208,7 @@
 		[
 			[
 				"",
-				"/Users/tonimaiser/Desktop/rails_projects/demo_app/sample-app.sublime-project"
+				"/Users/tonimaiser/Documents/Tareas/tareas.sublime-project"
 			]
 		],
 		"width": 380.0
