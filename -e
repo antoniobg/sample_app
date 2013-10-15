@@ -1,4 +1,4 @@
-Exception encountered: #<LoadError: cannot load such file -- /Users/tonimaiser/Desktop/rails_projects/sample_app/signup with invalid information>
+Exception encountered: #<LoadError: cannot load such file -- /Users/tonimaiser/Desktop/rails_projects/sample_app/signin with invalid information>
 backtrace:
 /Users/tonimaiser/.rvm/gems/ruby-2.0.0-p247@global/gems/activesupport-4.0.0/lib/active_support/dependencies.rb:222:in `load'
 /Users/tonimaiser/.rvm/gems/ruby-2.0.0-p247@global/gems/activesupport-4.0.0/lib/active_support/dependencies.rb:222:in `block in load'
