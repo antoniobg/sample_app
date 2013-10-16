@@ -50,8 +50,23 @@ describe "Authentication" do
         end
 
         describe "after signin in" do
+
           it "should render the desired protected page" do
             expect(page).to have_title('Edit user')
+          end
+
+          describe "when signing in again" do
+            before do
+              delete signout_path
+              visit signin_path
+              fill_in "Email",    with: user.email
+              fill_in "Password", with: user.password
+              click_button "Sign in"
+            end
+
+            it "should render the default (profile) page" do
+              expect(page).to have_title(user.name)
+            end
           end
         end
       end
@@ -72,6 +87,30 @@ describe "Authentication" do
           before { visit users_path }
           it { should have_title('Sign in') }
         end
+      end
+
+      it { should_not have_selector('li', text: "Profile") }
+      it { should_not have_selector('li', text: "Settings") }
+    end
+
+    describe "for signed-in users" do
+      let(:user) { FactoryGirl.create(:user) }
+      before { sign_in user, no_capybara: true }
+
+      describe "using a Users#new action" do
+        before { visit new_user_path }
+        it { should have_content('Sign up') }
+      end
+
+      describe "using a Users#create action" do
+        before do
+          @user_new = {name: "Ex user",
+                       email: "ex@user.com",
+                       password: "foobar",
+                       password_confirmation: "foobar"}
+          post users_path, user: @user_new
+        end
+        specify { expect(response).to redirect_to(root_url) }
       end
     end
 
