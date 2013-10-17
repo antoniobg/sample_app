@@ -70,6 +70,20 @@ describe "UserPages" do
     end
   end
 
+  describe "other user's profile" do
+    let(:user) { FactoryGirl.create(:user) }
+    let(:other_user) { FactoryGirl.create(:user) }
+    let!(:m1) { FactoryGirl.create(:micropost, user: other_user, content: "Foo") }
+    let!(:m2) { FactoryGirl.create(:micropost, user: other_user, content: "Bar") }
+
+    before do
+      sign_in user
+      visit user_path(other_user)
+    end
+
+    it { should_not have_selector('a', text: "delete") }    
+  end
+
   describe "signup" do
 
     before { visit signup_path }
