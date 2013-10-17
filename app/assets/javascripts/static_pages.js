@@ -1,8 +1,10 @@
 
 $(document).ready(function() {
-  updateCountdown();
-  $('#micropost_content').change(updateCountdown);
-  $('#micropost_content').keyup(updateCountdown);
+  if(document.getElementById("micropost_content")) {
+    updateCountdown();
+    $('#micropost_content').change(updateCountdown);
+    $('#micropost_content').keyup(updateCountdown);    
+  }
 });
 
 function updateCountdown() {
