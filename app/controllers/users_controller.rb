@@ -54,13 +54,6 @@ class UsersController < ApplicationController
     end
 
     # Before filters
-    
-    def signed_in_user
-      unless signed_in?
-        store_location
-        redirect_to signin_url, notice: "Please sign in."
-      end
-    end
 
     def already_registered
       redirect_to(root_url) if signed_in?
